@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Winky+Rough:ital,wght@0,300..900;1,300..900&display=swap');
+
+
+.winky-rough-ab {
+    font-family: "Winky Rough", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+  }
+
+  .heading
+  {
+    background-color: #604652;
+    text-align: center;
+  }
+
+  .para
+  {
+    background-color: #604652;
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    color: orange;
+    /* TRBL  TB LR T RL B */
+    margin: 0px 0PX 20px 0px ;
+    box-shadow: 15px 15px 15px 20px green;
+  }
+
+  span
+{
+   background-color: plum;
+   display: block;
+}
+
+.box
+{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    border: 2px dotted plum;
+    display: inline-block;
+    margin: 20px 20px 0px 0px;
+    box-shadow: 0px 0px 10px rgba(0, 153, 255, 0.486);
+}
+.container
+{
+    margin: 0px 0px 0px 170px;
+}
+#box1
+{
+    border-radius: 15%;
+}
+#box2
+{
+    /* TL-BR  TR-BL*/
+    /* TL   TR-BL   BR*/
+    border-radius: 55% 0% 25% ;
+}
+#box3
+{
+    border-radius: 0% 40% 40% 0%;
+}
+.shadow
+{
+    text-align: center;
+    text-shadow:10px 10px rebeccapurple;
+}
