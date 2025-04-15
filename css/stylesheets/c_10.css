@@ -1,0 +1,12 @@
+@media screen and (max-width:1000px){
+
+    body{
+        background-color: blue;
+    }
+}
+
+@media screen and (min-width:600px){
+ body{
+    background-color: rgb(178, 187, 154);
+ }
+}
